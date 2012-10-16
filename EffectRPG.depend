@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1349767176 source:e:\effectrpg\main.cpp
+	"HGE\hge.h"
+	"HGE\hgesprite.h"
+	"Math.h"
+	<iostream>
+
